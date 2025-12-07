@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 int main() {
     int enteredPin, accountBalance = 5000, choice, amount;

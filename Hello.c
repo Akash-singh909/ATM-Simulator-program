@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    int pin, enteredPin, accountBalance = 5000, choice, amount;
+    int enteredPin, accountBalance = 5000, choice, amount;
     int attempts = 3;
     
     printf("=== Welcome to ATM Simulation ===\n");
